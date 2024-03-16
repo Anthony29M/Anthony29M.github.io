@@ -1,4 +1,4 @@
-# Dino (Programming Language)
+# Dino 
 
 ## About Dino 
 
