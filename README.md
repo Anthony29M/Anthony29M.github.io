@@ -67,10 +67,11 @@ rawr result
 I’m Owen, a senior CS major at LMU, currently working at L3Harris, a defense company. I switched into cs my sophomore year, and have always coded here and there my whole life. I am interested in NLP, specifically stable diffusion, and am a music enthusiast.
 
 #### Evan Yu
-...
+GitHub: yuevan10284
+Computer science student working on a 4+1 masters. Currently Al engineer intern working on AI Education software. Loves outdoors, games, and basketball.
 
 #### Anthony Mendizabal
-I'm Anthony, a junior CS major at LMU. I have been a CS major my entire time so far at LMU and started learning how to code my freshmen year. I'm interested in joining the gaming industry or becoming an (IT) tech supoort specialist. 
+I'm Anthony, a junior CS major at LMU. I'm interested in joining the gaming industry or becoming an (IT) tech supoort specialist. I love playing/watching soccer and I love to cook.
 
 #### Brandon Bazile
 ...
