@@ -1,4 +1,4 @@
-## About Dino 
+# About Dino 
 
 In the vast world of coding languages, where new ideas echo through digital canyons, there's Dino—a language that's like a journey back in time, mixing dinosaurs with ancient civilizations. It's not your average coding tool; it's an adventure into creativity, made by coding pioneers to let you explore wild realms of imagination. With Dino, every line of code feels like crafting your own Jurassic story, leaving a mark on the digital world just like those ancient beasts.
 
