@@ -68,6 +68,7 @@ I’m Owen, a senior CS major at LMU, currently working at L3Harris, a defense c
 
 #### Evan Yu
 GitHub: yuevan10284
+
 Computer science student working on a 4+1 masters. Currently Al engineer intern working on AI Education software. Loves outdoors, games, and basketball.
 
 #### Anthony Mendizabal
