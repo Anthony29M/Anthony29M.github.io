@@ -78,7 +78,7 @@ GitHub: yuevan10284
 Computer science student working on a 4+1 masters. Currently Al engineer intern working on AI Education software. Loves outdoors, games, and basketball.
 
 #### Anthony Mendizabal
-I'm Anthony, a junior CS major at LMU. I'm interested in joining the gaming industry or becoming an (IT) tech supoort specialist. I love playing/watching soccer and I love to cook.
+I'm Anthony, a junior CS major at LMU. I'm interested in joining the gaming industry or becoming an (IT) tech supoort specialist. I love playing/watching soccer and my favorite team is FC Barcelona.
 
 #### Brandon Bazile
 I'm Brandon, a junior CS major at LMU. 
