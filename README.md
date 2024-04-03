@@ -17,48 +17,54 @@ quest concatenateStrings(stegostring str1, stegostring str2) {
 dinostring result = concatenateStrings("Hello", "Dino!")
 rawr result
 ```
-#### String Concatination 
+#### Hello World
 
 ```
-quest concatenateStrings(stegostring str1, stegostring str2) {
-  hatch str1 + " " + str2
+🦖 Dino printing
+rawr("ROAR beeg dino angry. Need food. I hate comet.")
+```
+#### Conditional Statements
+
+```
+🦖 Dino
+quest hungry(dinum hunger) {
+  if-rex hunger > 100 {
+    hatch "full"
+  } t-else {
+    hatch "hungry"
+  }
 }
 
 🦖 Usage
-dinostring result = concatenateStrings("Hello", "Dino!")
-rawr result
+stegostring = hungry(50)
+rawr stegostring
 ```
-#### String Concatination 
+#### Loops  
 
 ```
-quest concatenateStrings(stegostring str1, stegostring str2) {
-  hatch str1 + " " + str2
+quest dinonums() {
+  roaring miss{
+    if-rex miss{
+      stomp
+    }
+  }
+}
+
+dinonums()
+🦖 looping
+```
+#### Sum of Squares
+```
+quest sumOfSquares(dinum n) {
+  dinum sum = 0
+  roar 1 to n {
+    sum = i * i + sum
+  }
+  hatch sum
 }
 
 🦖 Usage
-dinostring result = concatenateStrings("Hello", "Dino!")
-rawr result
-```
-#### String Concatination 
-
-```
-quest concatenateStrings(stegostring str1, stegostring str2) {
-  hatch str1 + " " + str2
-}
-
-🦖 Usage
-dinostring result = concatenateStrings("Hello", "Dino!")
-rawr result
-```
-#### String Concatination 
-```
-quest concatenateStrings(stegostring str1, stegostring str2) {
-  hatch str1 + " " + str2
-}
-
-🦖 Usage
-dinostring result = concatenateStrings("Hello", "Dino!")
-rawr result
+int SoS = sumOfSquares(3)
 ```
 
 ## Developer Bios
@@ -75,7 +81,7 @@ Computer science student working on a 4+1 masters. Currently Al engineer intern 
 I'm Anthony, a junior CS major at LMU. I'm interested in joining the gaming industry or becoming an (IT) tech supoort specialist. I love playing/watching soccer and I love to cook.
 
 #### Brandon Bazile
-...
+I'm BRandon, a junior CS major at LMU. 
 
 
 ## Dino Language Repository
